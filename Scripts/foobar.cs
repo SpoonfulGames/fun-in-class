@@ -10,3 +10,5 @@ Some change: ☀☀☀☀
 >>>>>>> Stashed changes
 
 Fix for the jump
+
+Another change
